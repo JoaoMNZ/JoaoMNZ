@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/frSfC5NcmyF7q/giphy.gif"  />
+<img align="right" height="150" src="https://i.imgur.com/sNU5meT.jpeg"  />
 
 ###
 
