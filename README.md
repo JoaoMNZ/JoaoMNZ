@@ -45,3 +45,11 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="35"/>
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JoaoMNZ/JoaoMNZ/output/snake.svg" alt="Snake animation" />
+
+###
