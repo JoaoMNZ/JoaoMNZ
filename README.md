@@ -39,8 +39,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMNZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoMNZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMNZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&rank_icon=github" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoaoMNZ&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" />
 </div>
 
 <img src="https://raw.githubusercontent.com/JoaoMNZ/JoaoMNZ/output/snake.svg" alt="Snake animation" />
