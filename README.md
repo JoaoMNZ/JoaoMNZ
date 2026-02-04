@@ -3,8 +3,6 @@
   I'm a Computer Science student at the <strong>Federal University of Ceará (UFC) - Cratéus Campus</strong>, expecting to graduate in 2027.
   <br>
   Currently, my main focus is on developing my skills in the <strong>Java</strong> ecosystem with <strong>Spring Boot</strong>.
-  <br>
-  I am also developing <a href="https://github.com/JoaoMNZ/Bettracker" target="_blank">Bettracker</a>, an open-source platform to track and analyze your sports betting performance.
 </p>
 
 ### Languages & Frameworks
