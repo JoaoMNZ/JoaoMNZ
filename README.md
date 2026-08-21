@@ -1,41 +1,40 @@
-<h2 align="left">Hi there! 👋 My name is João Paulo</h2>
-<p align="left">
-  I'm a Computer Science student at the <strong>Federal University of Ceará (UFC) - Cratéus Campus</strong>, expecting to graduate in 2027.
-  <br>
-  Currently, my main focus is on developing my skills in the <strong>Java</strong> ecosystem with <strong>Spring Boot</strong>.
-</p>
+# Olá! 👋 Me chamo João Paulo
+Sou estudante de **Ciência da Computação** na **Universidade Federal do Ceará (UFC)**, atualmente no 8º semestre, com foco em **desenvolvimento Backend**.
 
-### Languages & Frameworks
+Tenho trabalhado principalmente com **Java** e **Spring Boot**, desenvolvendo APIs RESTful e aplicações que envolvem persistência de dados, autenticação, segurança e testes automatizados.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="vertical-align:middle;" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" style="vertical-align:middle;" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" style="vertical-align:middle;" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="vertical-align:middle;" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="vertical-align:middle;" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="vertical-align:middle;" />
-  <img width="8" />
-</div>
+## Tecnologias
+**Backend:**  
+Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA
 
-### Connect with me
+**Bancos de Dados:**  
+PostgreSQL · MySQL
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joaomnz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>
-  <a href="mailto:joao.menezes21@Outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" height="35"/></a>
-  <a href="mailto:joaopaulosousamenezes@alu.ufc.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"/></a>
-  <a href="https://leetcode.com/joaomnz" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="35"/></a>
-</div>
+**Testes:**  
+JUnit · Mockito · AssertJ
 
----
+**Ferramentas:**  
+Git · Maven · Docker · Docker Compose · Postman
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMNZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JoaoMNZ&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" />
-</div>
+## Repositórios em destaque
 
-<img src="https://raw.githubusercontent.com/JoaoMNZ/JoaoMNZ/output/snake.svg" alt="Snake animation" />
+### [Bettracker](https://github.com/JoaoMNZ/Bettracker)
+- Backend desenvolvido com **Java e Spring Boot**, com foco em autenticação e gestão de usuários.
+- Implementa autenticação por credenciais locais e **Google OAuth 2.0**, sessões stateless com **Access e Refresh Tokens**, verificação de conta e recuperação de credenciais por **OTP**, além de testes unitários com **JUnit, Mockito e AssertJ**.
+
+### [Library-Free](https://github.com/JoaoMNZ/Library-Free)
+- API RESTful desenvolvida com **Java, Spring Boot e PostgreSQL** para automatizar o gerenciamento de livros e empréstimos de uma escola estadual de ensino médio.
+- Implementa persistência com **Spring Data JPA**, autenticação e autorização com **Spring Security e JWT**, regras transacionais para controle de empréstimos e conteinerização com **Docker e Docker Compose**.
+
+### [DSA Patterns](https://github.com/JoaoMNZ/DSA-Patterns)
+- Repositório dedicado ao estudo de **Estruturas de Dados e Algoritmos**, com soluções implementadas em Java e organizadas por padrões de resolução e estruturas de dados.
+
+## Open Source
+Contribuição aceita no repositório oficial de **[Grokking Algorithms (Entendendo Algoritmos)](https://github.com/egonSchiele/grokking_algorithms)**, livro de **Aditya Bhargava** sobre algoritmos e estruturas de dados.
+
+Refatorei a implementação do algoritmo **Quicksort** em Java por uma abordagem mais direta para iniciantes.
+
+[Pull Request #327](https://github.com/egonSchiele/grokking_algorithms/pull/327)
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/joaomnz) · [Email](mailto:joao.menezes21@outlook.com)
