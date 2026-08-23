@@ -4,17 +4,20 @@ Sou estudante de **Ciência da Computação** na **Universidade Federal do Cear�
 Tenho trabalhado principalmente com **Java** e **Spring Boot**, desenvolvendo APIs RESTful e aplicações que envolvem persistência de dados, autenticação, segurança e testes automatizados.
 
 ## Tecnologias
-**Backend:**  
-Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA
+**Linguagens de Programação:**  
+Java · SQL
 
-**Bancos de Dados:**  
-PostgreSQL · MySQL
+**Tecnologias Backend:**  
+Spring Boot · Spring MVC · Spring Security · Spring Data JPA
 
-**Testes:**  
+**Banco de Dados:**  
+PostgreSQL
+
+**Testes de Software:**
 JUnit · Mockito · AssertJ
 
 **Ferramentas:**  
-Git · Maven · Docker · Docker Compose · Postman
+Docker, Docker Compose, Git, GitHub, Maven, Postman
 
 ## Repositórios em destaque
 
